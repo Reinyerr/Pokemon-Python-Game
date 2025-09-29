@@ -5,7 +5,9 @@ This project is a Python-based text adventure game inspired by Pokémon mechanic
 
 
 Here is a video covering the Main Menu, Character Infomation, and Highscore
-https://github.com/user-attachments/assets/edf3a84f-179e-4674-b30f-8d8013e4eb8a
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/video-id](https://github.com/user-attachments/assets/edf3a84f-179e-4674-b30f-8d8013e4eb8a
+)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Here is a video covering the Main Gameplay of this text-based game!
-https://github.com/user-attachments/assets/0b0e8ab3-b612-42c9-a9e7-c3631623cf77
+<iframe width="560" height="315" src="https://github.com/user-attachments/assets/0b0e8ab3-b612-42c9-a9e7-c3631623cf77" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
